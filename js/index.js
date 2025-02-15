@@ -12,8 +12,8 @@ function greetProgrammer() {
   greet("Naureen");
   => "Hello, Naureen!"
 */
-function greet(name) {
-  console.log(`Hello, ${name}!`);
+function greet(Naureen) {
+  console.log(`Hello, ${Naureen}!`);
 }
 
 /*
